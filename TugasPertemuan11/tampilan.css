@@ -1,0 +1,21 @@
+.container-box {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .containerno {
+    width: 100px;
+  }
+  .containerna {
+    width: 220px;
+  }
+  .containerwa {
+    width: 300px;
+  }
+  .containerju {
+    width: 85px;
+  }
+  label {
+    display: inline-flex;
+    width: 100px;
+  }
